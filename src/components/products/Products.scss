@@ -1,0 +1,12 @@
+.Products {
+  .search {
+    display: flex;
+    gap: 10px;
+
+    .input-field,
+    .select {
+      height: 35px;
+      width: 200px;
+    }
+  }
+}
